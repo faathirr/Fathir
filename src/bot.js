@@ -1,5 +1,5 @@
 const LineConnect = require('./connect');
-const LINE = require('./maina.js');
+const LINE = require('./main.js');
 console.info("\n\
 =========================================\n\
 BotName: LINE Alphat JS\n\
